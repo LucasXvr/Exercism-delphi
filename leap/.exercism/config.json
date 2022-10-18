@@ -1,0 +1,19 @@
+{
+  "blurb": "Given a year, report if it is a leap year.",
+  "authors": [
+    "rpottsoh"
+  ],
+  "files": {
+    "solution": [
+      "uLeap.pas"
+    ],
+    "test": [
+      "uLeapTests.pas"
+    ],
+    "example": [
+      ".meta/uLeapExample.pas"
+    ]
+  },
+  "source": "JavaRanch Cattle Drive, exercise 3",
+  "source_url": "http://www.javaranch.com/leap.jsp"
+}

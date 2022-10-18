@@ -1,2 +1,2 @@
-# LucasXvr-Exercism-delphi
+# Exercism-delphi
 Atividades do Exercism em Delphi
